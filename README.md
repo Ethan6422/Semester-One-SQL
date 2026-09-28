@@ -1,6 +1,7 @@
 The README will have a brief description of each SQL files intended function.
 
-Business Process_Queries: This contains five business processes that was needed for the database. Below is a brief description of each of them.
+Business Process_Queries: This contains five business processes that was needed for the database. Below is a brief description of each of them:
+
 Process 1: An editable dataset to insert a new row into the Service table.
 
 Process 2: Lists mechanics who have previously serviced a given vehicle and have no jobs booked on the proposed new drop-off date.
