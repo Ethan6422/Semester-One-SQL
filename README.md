@@ -2,10 +2,15 @@ The README will have a brief description of each SQL files intended function.
 
 Business Process_Queries: This contains five business processes that was needed for the database. Below is a brief description of each of them.
 Process 1: An editable dataset to insert a new row into the Service table.
+
 Process 2: Lists mechanics who have previously serviced a given vehicle and have no jobs booked on the proposed new drop-off date.
+
 Process 3: Shows the total number of hours worked within a certain date range.
+
 Process 4: Searches the Mechanic table and shows the date of each mechanic's next job.
+
 Process 5: Adds a row into the Mechanic table to add a mechanic's availability. For example, if they're sick, available, on holiday, etc.
+
 
 Data_Insertion: This was used to insert all the data provided to us into each table in bulk. Code is also present to check the tables to see if the data was inserted correctly.
 
